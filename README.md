@@ -1,9 +1,6 @@
 ### Hi there, I'm Tarek Yosry 👋
 
-
-I'm a full-stack web developer graduated from finance and found my passion in coding. Currently I'm in a full-stack software developement program called Microverse.
-
-
+I graduated with a degree in finance, but my passion for coding led me to be a full-stack web developer student in Microverse.
 
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tarek-yosry/)
